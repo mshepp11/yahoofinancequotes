@@ -12,4 +12,3 @@ Build a web app for displaying stock quptes in real time. Data is retrieved from
 
 4. After the message `Server started, ...` displays, enter the following URL in a browser: <http://localhost:9000>
 
-"# yahoofinancequotes" 
